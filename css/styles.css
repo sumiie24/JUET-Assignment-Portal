@@ -1,0 +1,329 @@
+body {
+  font-size: 17px;
+  font-color:#000;
+  background-color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+#header-nav{
+	border-radius: 0;
+	border: 0;
+	background-color: #ffffff;
+}
+
+#logo-img{
+	background:url(../images/juet.jpg) no-repeat;
+	width: 170px;
+	height: 170px;
+	margin: 15px 15px 10px 0;
+}
+
+.navbar-brand{
+	padding: 25px;
+}
+
+.navbar-brand h1{
+	font-family:font-family:'Lora','serif';
+	color:#0a529a;
+	font-size:1.5em;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px #222;
+	margin-top:0;
+	margin-bottom:0;
+	line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration:none;
+}
+
+.navbar-brand p{
+	color:#0a529a;
+	text-transform: uppercase;
+	font-size:1em;
+	font-weight: bold;
+	margin-top:20px;
+}
+
+.navbar-brand span{
+	vertical-align: middle;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #ffffff;
+}
+.navbar-header button.navbar-toggle{
+	clear:both;
+	margin-top:-30px;
+}
+
+#portalname{
+	text-align:center;
+}
+
+#row1{
+	margin-top:20px;
+}
+
+
+input[type=text], select, textarea {
+    width: 40%;
+    padding: 7px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+input[type=submit] {
+    background-color:#0a529a;
+    color: white;
+	margin: 20px 0 0 530px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor:pointer;
+    
+}
+
+
+input[type=submit]:hover, #browse:hover, .generate:hover {
+    background-color: #97c7ef;
+}
+
+#browse{
+	background-color:#0a529a;
+    color: white;
+	margin: 24px 0 0 0;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor:pointer;
+}
+
+.generate{
+	background-color:#0a529a;
+	font-size: 1.1em;
+    color: white;
+	width:40%;
+	margin:45px 0 0 330px;
+	text-align: center;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+    cursor:pointer;
+}
+
+.col-33a{
+	float:left;
+	text-align:left;
+	margin-top:6px;
+	padding:0 0px 0 300px;
+	width:33%;
+
+}
+
+.col-33b{
+	float:left;
+	margin: 16px -280px 0 73px;
+	width:60%;
+}
+
+.col-45 {
+	padding-left: 300px;
+	text-align: left;
+    float: left;
+    width: 40%;
+    margin-top: 4px;
+}
+
+.col-55 {
+    float: left;
+    width: 60%;
+    margin-top: 6px;
+}
+
+#logout{
+	margin:30px 0 0 500px;
+}
+
+#adminpage, #studentpage{
+	text-align: center;
+	margin:40px 100px 0 200px;
+	float: right;	
+}
+
+.panel-footer{
+	margin-left:150px;
+	width:80%;
+	border-radius:10px;
+	background-color: #fff;
+	text-align: center;
+	color:#000;
+}
+
+#adminheader{
+	background-color:#0a529a;
+	text-align:center;
+	margin-top:-10px;
+	font-size:1.1em;
+	width:100%;
+	color:#fff;
+	padding:8px 0 8px 0;
+	border:none;
+	border-radius:5px;
+}
+
+@media (min-width:1200px){
+	.jumbotron{
+		background-color: #fff;
+		height:420px;
+		box-shadow:0 0 150px #97c7ef;
+		border:2px solid #ffffff;
+		border-radius:10px;
+	}
+	
+}
+
+/*     */ 
+/*     */ 
+/*   Sumit........................................................  */ 
+.error{
+	width: 92%;
+	margin:0 auto;
+	padding: 10px;
+	border:1px solid #a94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
+
+.error_show h5{
+	padding-right: 50px;
+}
+
+.login_welcome h1{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.start_button{
+	background-color:#0a529a;
+    margin: 20px 0 0 530px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor:pointer;
+    float: right;
+    
+}
+
+.start_button:hover{
+	background-color: #97c7ef;
+}
+
+.start_button a{
+	text-decoration: none;
+	color: white;
+}
+
+#quiz-time-left{
+	float: right;
+}
+
+.error_login {
+	color: red;
+	font-weight: bold;
+	font-size: 15px;
+	padding-left: 50px;
+
+}
+
+.generate_button{
+	margin-right: 0px;
+}
+
+
+/*  assignment */
+.middle_time{
+	position: absolute;
+	top: 75%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+}
+
+#demo{
+
+	word-spacing: 20px;
+	font-weight: bold;
+}
+
+
+.button_1 a{
+ 	background-color: black;
+color: white;
+ }   
+
+ .button_1 {
+ 	font-size: 25px;
+ 	color: white;
+
+ }   
+
+ .row11{
+ 	width: 100%;
+ }
+
+ @media (min-width: 992px) {
+	.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12{
+
+	float: left;
+}
+.col-md-1{
+	width: 8.33%;
+} 
+
+.col-md-2{
+	width: 16.66%;
+} 
+.col-md-3{
+	width: 25%;
+} 
+.col-md-4{
+	width: 33%;
+} 
+.col-md-5{
+	width: 41.66%;
+} 
+.col-md-6{
+	width: 50%;
+} 
+.col-md-7{
+	width: 58.33%;
+} 
+.col-md-8{
+	width: 66.66%;
+} 
+.col-md-9{
+	width: 74.99%;
+} 
+.col-md-10{
+	width: 83.33%;
+} 
+.col-md-11{
+	width: 91.66%;
+} 
+.col-md-12{
+	width: 100%;
+} 
+}
