@@ -1,4 +1,4 @@
-# JUET-Quiz-Portal : Assignment based project
+# JUET-Assignment-Portal : Web based project
 The Project is based on HTML, CSS, Bootstrap, JS for **Front-end**, PHP and MySQL for **Back-end**.    
 
 A Web Assignment Portal is a online platform for submitting Assignment. Student can submit their assignment online, thus reducing the time, labour and cost. For Faculty it reduces the task for checking plagiarism.
