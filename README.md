@@ -37,26 +37,34 @@ A Web Assignment Portal is a online platform for submitting Assignment. Student 
 
 ## Screenshots
 1. Student Login Page  
-        <img src="" />
+        <img src="https://github.com/sumiie24/JUET-Assignment-Portal/blob/master/screenshots/student%20login.png" />
 
 2. Student Register Page  
-        <img src="" />
+        <img src="https://github.com/sumiie24/JUET-Assignment-Portal/blob/master/screenshots/register%20page.png" />
 
 3. Admin Login Page  
-        <img src="" />
+        <img src="https://github.com/sumiie24/JUET-Assignment-Portal/blob/master/screenshots/admin%20login.png" />
 
-4. Admin Option Page  
-        <img src="" />
-        
-5. Admin Upload Assignment Page  
-        <img src="" />
-       
-6. Student Submit Assignment Question Page  
-        <img src="" />
+4. Student View Assignment Page 
+        <img src="https://github.com/sumiie24/JUET-Assignment-Portal/blob/master/screenshots/student%20view%20assignment%20page.png" />
 
-7. Forgot Password Page  
-       <img src="" />
+5. Student Upload Assignment Solution File Page  
+        <img src="https://github.com/sumiie24/JUET-Assignment-Portal/blob/master/screenshots/student%20upload%20assignment%20page.png" />
+
+6. Admin Option Page(after login) 
+       <img src="https://github.com/sumiie24/JUET-Assignment-Portal/blob/master/screenshots/admin%20option%20page.png" />
+
+7. Admin Upload Assignment File and Details Page
+       <img src="https://github.com/sumiie24/JUET-Assignment-Portal/blob/master/screenshots/admin%20upload%20assignment%20page.png" />
        
+8. Admin Check Plagiarism between two files
+       <img src="https://github.com/sumiie24/JUET-Assignment-Portal/blob/master/screenshots/check%20plag%20page.png" />
+
+9. Admin Check Plagiarism Result page
+       <img src="https://github.com/sumiie24/JUET-Assignment-Portal/blob/master/screenshots/plag%20found%20page.png" />
+       
+10. Forgot Password Page
+       <img src="https://github.com/sumiie24/JUET-Assignment-Portal/blob/master/screenshots/forgot%20password%20page.png" />
        
 ## Updation
 * Student can submit assignment solution for a different subjects.  
